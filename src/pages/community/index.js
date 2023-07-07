@@ -5,20 +5,19 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero hero--primary')}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <h1 className="hero__title">Support Grams</h1>
+        <p className="hero__subtitle">Join different communities and interact with other Grams members</p>
+        <div>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Create a dApp - 5 mins ⏱️
+              Join Grams Foundation
           </Link>
         </div>
       </div>
