@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Grams Wiki',
-  tagline: 'The complete reference for Grams',
+  tagline: 'The complete reference for the Grams ecosystem',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://grams.foundation',
+  url: 'https://grams-foundation.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',

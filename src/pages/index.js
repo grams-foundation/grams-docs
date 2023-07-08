@@ -6,11 +6,14 @@ import QuickStart from '@site/src/components/QuickStart';
 import Libraries from '@site/src/components/Libraries';
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       description={siteConfig.tagline}>
       <HomeBanner />
+      <div class="alert alert--primary" role="alert">
+        The alpha release is using a faucet that can fund any wallet for free!
+      </div>
       <main>
         <QuickStart />
         <Libraries />
