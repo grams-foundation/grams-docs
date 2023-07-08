@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrams_docs=self.webpackChunkgrams_docs||[]).push([[2594],{9005:s=>{s.exports=JSON.parse('{"permalink":"/grams-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
