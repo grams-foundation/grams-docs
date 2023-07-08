@@ -29,6 +29,6 @@ To start using Grams, follow these simple steps:
 
 ## Next Steps
 
-Now that you have a basic understanding of Grams and how to get started, you can explore the extensive documentation and resources available to further enhance your Grams development journey. Visit the [Grams Wiki](/docs) to access tutorials, examples, concepts, and reference materials that will help you build amazing decentralized applications on the Grams platform.
+Now that you have a basic understanding of Grams and how to get started, you can explore the extensive documentation and resources available to further enhance your Grams development journey. Visit the [Grams Wiki](/) to access tutorials, examples, concepts, and reference materials that will help you build amazing decentralized applications on the Grams platform.
 
 Start using Grams today and unlock the potential of blockchain technology for your applications!
