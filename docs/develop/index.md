@@ -2,48 +2,36 @@
 displayed_sidebar: developSidebar
 sidebar_position: 1
 title: Introduction
----
+---   
 
 # Developing on Grams
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the developer documentation of the Grams Wiki. This section provides resources and information to help you develop decentralized applications (dApps) and interact with the Grams ecosystem.
+
+Whether you are a beginner getting started with Grams development or an experienced developer looking for advanced concepts and reference material, this section has you covered.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+If you're new to Grams development, start with the [Getting Started](getting-started.md) guide. It will walk you through the initial setup and introduce you to the basic concepts and tools needed to develop on Grams.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Tutorials
 
-### What you'll need
+The [Tutorials](tutorials/) section provides step-by-step guides and examples to help you learn specific Grams development tasks. From creating smart contracts to interacting with Grams APIs, these tutorials cover a wide range of topics.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Examples
 
-## Generate a new site
+Explore the [Examples](examples/) section to find sample code and complete projects that demonstrate various aspects of Grams development. These examples can serve as a starting point for your own projects or help you understand specific Grams features and functionalities.
 
-Generate a new Docusaurus site using the **classic template**.
+## Concepts
 
-The classic template will automatically be added to your project after you run the command:
+The [Concepts](concepts/) section dives into the core concepts and principles behind Grams. It covers topics such as blockchain technology, smart contracts, decentralized identity, and more. If you want to deepen your understanding of Grams and its underlying principles, this section is for you.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Libraries
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Discover the available Grams libraries and tools in the [Libraries](libraries/) section. These libraries provide pre-built functionality and utilities to simplify Grams development. Whether you're looking for smart contract libraries, wallet integrations, or developer tools, you'll find useful resources here.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Reference
 
-## Start your site
+The [Reference](reference/) section provides detailed documentation and reference material for Grams APIs, smart contract standards, and other technical specifications. It's a valuable resource for developers who need in-depth information and specifications while building on the Grams platform.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Start exploring the different sub-sections under "Develop" to enhance your Grams development skills and build powerful decentralized applications.

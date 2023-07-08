@@ -1,0 +1,30 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.homeBanner {
+  background: #4B79A1;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #283E51, #4B79A1);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #283E51, #4B79A1);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

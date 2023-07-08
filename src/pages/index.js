@@ -1,40 +1,19 @@
 import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Create a dApp - 5 mins ⏱️
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
+import HomeBanner from '@site/src/components/HomeBanner';
+import QuickStart from '@site/src/components/QuickStart';
+import Libraries from '@site/src/components/Libraries';
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} Wiki`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
+      description={siteConfig.tagline}>
+      <HomeBanner />
       <main>
-        <HomepageFeatures />
+        <QuickStart />
+        <Libraries />
       </main>
     </Layout>
   );

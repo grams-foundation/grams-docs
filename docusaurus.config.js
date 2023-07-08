@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Grams',
+  title: 'Grams Wiki',
   tagline: 'The complete reference for Grams',
   favicon: 'img/favicon.ico',
 
@@ -61,7 +61,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          { to: '/docs/use/grams', label: 'Use Grams', position: 'left' },
+          { to: '/docs/use', label: 'Use Grams', position: 'left' },
           { to: '/docs/develop', label: 'Develop' },
           { to: '/docs/learn', label: 'Learn' },
           { to: '/blog', label: 'Blog', position: 'left' },
