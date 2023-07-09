@@ -12,7 +12,7 @@ export default function Home() {
       description={siteConfig.tagline}>
       <HomeBanner />
       <div class="alert alert--primary" role="alert">
-        The alpha release is using a faucet that can fund any wallet for free!
+        The alpha release is hosting a faucet that can fund any Grams wallet for free!
       </div>
       <main>
         <QuickStart />

@@ -4,14 +4,6 @@
 
 Welcome to the Grams Documentation! This repository contains the official documentation for Grams, a decentralized platform that enables seamless integration of blockchain functionality into applications.
 
-## Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Grams Documentation provides comprehensive resources and guides to help developers understand and utilize the features and capabilities of the Grams platform. Whether you are a beginner or an experienced blockchain developer, this documentation will serve as a valuable reference for building decentralized applications (dApps) using Grams.
