@@ -16,7 +16,7 @@ If you're new to Grams development, start with the [Getting Started](/docs/devel
 
 ## Tutorials
 
-The [Tutorials](tutorials/) section provides step-by-step guides and examples to help you learn specific Grams development tasks. From creating smart contracts to interacting with Grams APIs, these tutorials cover a wide range of topics.
+The [Tutorials](tutorials/) section provides step-by-step guides and examples to help you learn specific Grams development tasks. From creating dApps and subjects to interacting with Grams APIs, these tutorials cover a wide range of topics.
 
 ## Examples
 
