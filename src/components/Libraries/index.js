@@ -20,6 +20,12 @@ const CardList = [
     link: '/docs/develop/libraries/grams-subjects'
   },
   {
+    title: 'Grams dApps',
+    Svg: require('@site/static/img/libraries/dapps.svg').default,
+    description: 'Decentralized applications powered by the Grams network for secure and feature-rich user experiences.',
+    link: '/docs/develop/libraries/grams-dapps'
+  },
+  {
     title: 'Grams Contracts',
     Svg: require('@site/static/img/libraries/contracts.svg').default,
     description: 'Unlock the potential of smart contracts for decentralized application development on Grams.',
@@ -28,14 +34,8 @@ const CardList = [
   {
     title: 'window.Grams',
     Svg: require('@site/static/img/libraries/window.svg').default,
-    description: 'Integrate Grams features into your applications using the window.Grams API.',
+    description: 'Integrate Grams into your applications using the window.Grams API.',
     link: '/docs/develop/libraries/window.grams'
-  },
-  {
-    title: 'Grams for Unity',
-    Svg: require('@site/static/img/libraries/unity.svg').default,
-    description: 'Add Grams to your Game using different examples in the Asset Store for free.',
-    link: '/docs/develop/libraries/grams-unity'
   },
 ];
 
